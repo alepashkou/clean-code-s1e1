@@ -1,0 +1,89 @@
+[33mcommit b0b049008f01239d409140d3ce8eb723d0e7eca1[m[33m ([m[1;36mHEAD -> [m[1;32mclean-code-s1e1[m[33m)[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:29:33 2021 +0300
+
+    refactor: semicolon according to rule 3.7 in html-and-css.md
+
+[33mcommit ffac2eb3bc556a0cb74690dee249bbce5fa8104b[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:28:09 2021 +0300
+
+    refactor: space after properties according to rule 3.6 in html-and-css.md
+
+[33mcommit 548701db23aff844edb7e922fdf5ad714accefee[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:25:41 2021 +0300
+
+    refactor: block indents according to rule 3.5 in html-and-css.md
+
+[33mcommit 071df062c35448fa8c17c983520d9f54fdff7fdc[m[33m ([m[1;31morigin/clean-code-s1e1[m[33m)[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:22:27 2021 +0300
+
+    refactor: rename tag selectors according to rule 3.4 in html-and-css.md
+
+[33mcommit f667a2410ab64bd4a66d2b699e6f29b766989056[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:20:51 2021 +0300
+
+    refactor: rename classes according to rule 3.2, 3.3 in html-and-css.md
+
+[33mcommit 328a64fb9392dbcdac8a3ace75afa4a415cbc248[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:19:17 2021 +0300
+
+    refactor: style naming according to rule 3.1 in html-and-css.md
+
+[33mcommit 0d00841df84dcbd120a4aaef18617c3dcc665ef2[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:18:11 2021 +0300
+
+    refactor: type atribute according to rule 2.4 in html-and-css.md
+
+[33mcommit 06155b414b011921cd271be3b199a3cfdbd3d6ad[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:17:20 2021 +0300
+
+    refactor: mnemonik symbols according to rule 2.3 in html-and-css.md
+
+[33mcommit 33fa93bcd0829fbab5b13441550cbe5ee3940018[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:16:34 2021 +0300
+
+    fix: DOCTYPE according to rule 2.2 in html-and-css.md
+
+[33mcommit 566985530bea3dcb00a42424e3cbd864ef91d739[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:15:02 2021 +0300
+
+    refactor: CSS and HTML formatting according to rule 1.3 in html-and-css.md
+
+[33mcommit f9887ecbd7cd40cf4b425b6c32df456b6062c067[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:13:48 2021 +0300
+
+    refactor: CSS and HTML formatting according to rule 1.2 in html-and-css.md
+
+[33mcommit d2bfbed8ca3372e23e77d6dc8c70803fdf4e6cab[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:12:38 2021 +0300
+
+    refactor: adjust CSS-formatting according to rule 1.1 in html-and-css.md
+
+[33mcommit 9533af4c99c8b602dc12ab06a505d4d2013eddea[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:10:43 2021 +0300
+
+    refactor: adjust HTML-formatting according to rule 1.1, 2.1 in html-and-css.md
+
+[33mcommit d473f5e4149a12ecec9b7296f8982e571121427f[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:08:08 2021 +0300
+
+    init: start clean-code-s1e1 task
+
+[33mcommit c2ca7edb1b97838507e5d7b904867068a8ce05ea[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Alexander Pashkou <ale.pashkou@gmail.com>
+Date:   Thu Nov 25 14:04:41 2021 +0300
+
+    Initial commit
